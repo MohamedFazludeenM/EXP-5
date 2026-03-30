@@ -31,6 +31,7 @@ PROCEDURE:
 3. The voltage across the diode (Vz.) remains almost constant although the current through the diode increases. This voltage serves as reference voltage.
 4. The zener current (lz), and the zener voltage (Vz.) are observed and then noted in the tabular form.
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
+
 OBSERVATIONS
 <img width="1080" height="601" alt="image" src="https://github.com/user-attachments/assets/34638ba8-7fba-47d8-a8d3-d43658615fe2" />
 <img width="1080" height="547" alt="image" src="https://github.com/user-attachments/assets/cb2f73b1-3d85-44bd-9d7b-a1a3aadfa27a" />
